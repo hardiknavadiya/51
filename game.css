@@ -1,0 +1,11 @@
+body{
+    background-image: url(123.jpeg);
+    background-size: 1700px;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+
+}
+#ex1{
+    border: 5px;
+    padding: 5px;
+}

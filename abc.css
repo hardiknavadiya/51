@@ -1,0 +1,20 @@
+h1{
+    text-transform: lowercase;
+    letter-spacing: 30PX;
+    margin:10% 20% 3%;
+    padding-left: 100px
+    
+}
+p{
+    list-style-type: 
+}
+#submit{
+    background-color: black;
+}
+.back{
+    background-color: black;
+}
+body{
+    background-attachment: fixed;
+    border: 5px;
+}
