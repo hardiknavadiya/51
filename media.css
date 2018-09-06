@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+}
+    @media screen and (max-width: 1000px)
+    {
+        body{
+            background-color: green;
+        }
+    }
+    
+
